@@ -1,14 +1,10 @@
 {
-  "name": "semi-theme-vars",
+  "name": "vars",
   "version": "1.3.6",
   "description": "",
   "main": "theme/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@ssh.github.com:443/jahnli/semi-theme-vars.git"
   },
   "author": "jahnli",
   "license": "ISC"
